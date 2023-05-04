@@ -2,18 +2,11 @@
 
 The following includes links to resources that may be of use to you while learning how to use Tinkercad Circuits.
 
-### Basics to Tinkercad Circuits
+### Basics to Tinkercad Circuits (Videos)
 
 Introduction to Tinkercad Circuits and Breadboarding: https://www.youtube.com/watch?v=LrOM2GABK1g
 
 [Playlist] Learn Arduino with Tinkercad Circuits: https://www.youtube.com/watch?v=yyG0koj9nNY&list=PLV6cmKvnKRs5geApVORPW79U6s3wpa0Ht
-
-### Working with more circuit components
-
-Creating a Circuit with a Pushbutton: https://www.youtube.com/watch?v=yMUldl1-MMg
-Coding a Circuit with a Pushbutton: https://www.youtube.com/watch?v=GrTMQQyOLBo
-Creating a Night Light using an Arduino: https://www.youtube.com/watch?v=eLS9fIZkEfw
-Coding the Arduino&nbsp;Night Light: https://www.youtube.com/watch?v=7nQXSoZUZBE
 
 ### More resources
 
