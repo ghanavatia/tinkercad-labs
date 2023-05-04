@@ -14,8 +14,6 @@ b. Any sensitive section-specific content will be updated on Brightspace. This r
 
 2. If you would like to get started in learning Tinkercad, navitate to [tutorial.md](tutorial.md). This will include videos and articles that may be useful to learn how Tinkercad works.
 
-3. For each part(s) of the labs, there may be associated resources (i.e., example code, block diagrams) that may help you as you progress through the lab. They can be found through a combination of either your class' specific folder, or the "General Resources" folder in the current directory.
-
 ### Questions/Comments/Concerns
 
 Should you have any questions, please email Professor Ghanavati at [ghanavatia@wit.edu](mailto:ghanavatia@wit.edu). 
