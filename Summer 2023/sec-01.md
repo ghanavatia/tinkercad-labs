@@ -1,4 +1,4 @@
-## Lab Section 04, Summer 2023
+## Section 01, Summer 2023
 
 All of your work will be completed using Tinkercad Classroom. The link to accessing this specific section is below. Please follow these steps **carefully**:
 
